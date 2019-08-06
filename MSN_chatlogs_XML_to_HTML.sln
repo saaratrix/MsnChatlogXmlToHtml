@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSNChatlogConverter", "MSNChatlogConverter\MSNChatlogConverter.csproj", "{AE376D14-9C51-417C-B6C9-4B762A567417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE376D14-9C51-417C-B6C9-4B762A567417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE376D14-9C51-417C-B6C9-4B762A567417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE376D14-9C51-417C-B6C9-4B762A567417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE376D14-9C51-417C-B6C9-4B762A567417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
